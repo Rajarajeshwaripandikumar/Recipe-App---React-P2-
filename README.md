@@ -44,11 +44,6 @@ This app fetches data from the [TheMealDB API](https://www.themealdb.com/api.php
 
 ---
 
-
-
-
----
-
 ## ⚙️ Installation & Setup
 Clone the repository and install dependencies:
 
