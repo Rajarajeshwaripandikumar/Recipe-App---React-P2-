@@ -43,3 +43,24 @@ This app fetches data from the [TheMealDB API](https://www.themealdb.com/api.php
 - **Public API:** [TheMealDB](https://www.themealdb.com/api.php)
 
 ---
+
+
+
+
+---
+
+## ⚙️ Installation & Setup
+Clone the repository and install dependencies:
+
+```bash
+# Clone the repo
+git clone https://github.com/Rajarajeshwaripandikumar/Recipe-App---React-P2-.git
+
+# Navigate into the project
+cd Recipe-App---React-P2-
+
+# Install dependencies
+npm install
+
+# Start the dev server
+npm run dev
